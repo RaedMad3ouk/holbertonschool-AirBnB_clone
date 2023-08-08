@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-""" Class BaseModel defines common attributes/methods for other classes 
-It will serve as the foundation for managing your Airbnb objects and interacting with the user"""
+""" Class BaseModel defines common attributes/methods for other classes
+It will serve as the foundation for managing your Airbnb objects"""
 
 import uuid
 from datetime import datetime as dt
